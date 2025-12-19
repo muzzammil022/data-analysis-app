@@ -1,6 +1,7 @@
 # Chennai Real Estate Analysis App
 
 A Streamlit application for analyzing land costs across different neighborhoods in Chennai.
+Preview here: https://chennai-realestate-analysis.streamlit.app/
 
 ## Setup
 1. Create a virtual environment: `python -m venv venv`
